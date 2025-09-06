@@ -1,4 +1,4 @@
--- 📚 Assignment SQL Answers
+-- Assignment SQL Answers
 
 -- ============================
 -- Question 1
