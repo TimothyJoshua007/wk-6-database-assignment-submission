@@ -1,7 +1,7 @@
 -- 📚 Assignment SQL Answers
 
 -- ============================
--- Question 1 🧑‍💼
+-- Question 1
 -- Get firstName, lastName, email, and officeCode of all employees
 -- Use INNER JOIN to combine employees with offices using officeCode
 -- ============================
@@ -15,7 +15,7 @@ INNER JOIN offices o
 
 
 -- ============================
--- Question 2 🛍️
+-- Question 2
 -- Get productName, productVendor, and productLine from products
 -- Use LEFT JOIN to combine products with productlines using productLine
 -- ============================
@@ -28,7 +28,7 @@ LEFT JOIN productlines pl
 
 
 -- ============================
--- Question 3 📦
+-- Question 3
 -- Retrieve orderDate, shippedDate, status, and customerNumber
 -- Show only the first 10 orders
 -- Use RIGHT JOIN to combine customers with orders using customerNumber
